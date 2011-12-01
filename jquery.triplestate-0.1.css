@@ -1,0 +1,22 @@
+/*
+    Document   : jquery.triplestate-0.1
+    Created on : 25-Nov-2011, 13:30:07
+    Author     : CliveWalkden
+    Description:
+        Style the three default styles of the triple state plugin.
+*/
+
+.state3-1{
+	background:transparent url('/images/layout/icons/1.png') no-repeat scroll 0 2px;
+	color:#58585a;
+}
+
+.state3-2{
+	background:transparent url('/images/layout/icons/2.png') no-repeat scroll 0 2px;
+	color:#58585a;
+}
+
+.state3def{
+	background:transparent url('/images/layout/icons/0.png') no-repeat scroll 0 2px;
+	color:#58585a;
+}
